@@ -135,4 +135,7 @@ li a:hover {
   .card-white {
     width: 400px;
   }
+  .content .card-white {
+    width: 200px;
+  }
 }
