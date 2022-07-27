@@ -6,6 +6,7 @@ body {
   color: #7F7C82;
   background-color: #F0D9FF;
   background-image: linear-gradient(180deg, #f0d9ff 0%, #bfa2db 100%);
+  margin: 0;
 }
 
 h1, h2, h3 {
